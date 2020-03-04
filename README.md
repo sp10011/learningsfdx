@@ -1,6 +1,5 @@
-Hello 
+Hello Eveyone 
 
-This Git is created for Testing purpose - 
+I am new to GitHub and currently learning how it works with Salesforce
 
-and the code we have right now is not valid one and can be deleted in near future time 
-
+Please do not comment and add anything to this branch.
